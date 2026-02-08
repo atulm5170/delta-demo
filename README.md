@@ -6,3 +6,9 @@ Atul Mishra
 
 # class
 BCA(bachelor of computer application)
+
+# roll no:
+KA2k24/4304407054
+
+# college
+pt. mahaveer prasad tripathi vijaypur mirzapur..
