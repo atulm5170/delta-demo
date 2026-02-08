@@ -1,6 +1,6 @@
-let h1 = document.querySelector('h1');
-h1.addEventListener('click', () => {
-      h1.classList.toggle('click');
-});
+// let h1 = document.querySelector('h1');
+// h1.addEventListener('click', () => {
+//       h1.classList.toggle('click');
+// });
 
 // add new features...
